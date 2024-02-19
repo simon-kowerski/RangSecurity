@@ -5,8 +5,6 @@ gbb<h1 style="font-size:12px;"> Rang - Security for Everyone </h1>
         <img src="https://img.shields.io/github/issues/simon-kowerski/RangSecurity"></a>
 <a href="https://destroybigcorporate.wixsite.com/rangrangrang">
         <img src="https://img.shields.io/website?url=https%3A%2F%2Fdestroybigcorporate.wixsite.com%2FRangRangRang"></a> 
- <a href="https://www.paypal.com/donate/?business=7565XAPM5MC9U&no_recurring=0&item_name=All+donations+help+to+fund+RangSecurity+and+are+used+to+purchase+additional+cameras+to+help+start+the+comapny.+&currency_code=USD">
- <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
  <a href="https://github.com/pairOfPants">
         <img src="https://img.shields.io/github/followers/pairOfPants?style=social"></a>
  <br><i>Note: This project is unfinished. It was originally created by four high school students at a local hackathon, and further development may be implemented.
