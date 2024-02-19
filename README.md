@@ -134,12 +134,7 @@ Rang Cameras are an affordable security feature that have built in motion detect
  <li> mantis - Assistant Java Backend Developer - Optimized code with Multithreading </li>
  </ol><br>
  <i>I highly reccomend visiting each individual's profile to view their other work, separate from this project.</i>
- <h2> How to Contribute </h2>
-While our license prevents outside use for financial gain, feel free to contribute to this repository through pull requests. If you are looking for another way to contribute to this project, all donations to the paypal linked below are greatly appreciated, and they help speed up development astronomically.
- <br> <br>
- <a href="https://www.paypal.com/donate/?business=7565XAPM5MC9U&no_recurring=0&item_name=All+donations+help+to+fund+RangSecurity+and+are+used+to+purchase+additional+cameras+to+help+start+the+comapny.+&currency_code=USD">
- <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
- 
+
 <br>
  <h2> License </h2>
 This project is protected under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. <br>In short, anyone can edit, download, and use our code as long as any modification is republished back to this repository and our code is not used for your own financial gain. To read the full license, click <small><i><a href='https://github.com/simon-kowerski/RangSecurity/blob/main/LICENSE'>HERE</a></i></small>
