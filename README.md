@@ -9,9 +9,11 @@ gbb<h1 style="font-size:12px;"> Rang - Security for Everyone </h1>
  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
  <a href="https://github.com/pairOfPants">
         <img src="https://img.shields.io/github/followers/pairOfPants?style=social"></a>
- <br><i>Note: This project is unfinished. It was originally created by four high school students at a local hackathon, and further development is now being implemented.
+ <br><i>Note: This project is unfinished. It was originally created by four high school students at a local hackathon, and further development may be implemented.
  
- Also Note that the website linked above is created using Wix, and a custom website is still being coded by serenexy </i> <br>
+ Also Note that the website linked above is created using Wix
+ 
+ See https://devpost.com/software/rang-security-for-all for a further project description</i> <br>
 
 Estimated Completion Date: <b>TBD</b>
 <h2 style="font-size:30px;"> Project Description </h2>
